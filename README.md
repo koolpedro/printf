@@ -15,9 +15,10 @@ The _printf() function returns the total number of characters printed to the std
 If an output error is encountered, a negative value of -1 is returned.
 
 
-
 The prototype of this function is: int _printf(const char format, ...);
 
-
-
 This means that it has one mandatory format argument, and an extra number of arguments that can be none, or many
+
+team 
+Anyakorah Peter - koolpedro
+Lawrence Ughonu - renzium
